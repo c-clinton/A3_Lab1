@@ -25,7 +25,7 @@ httpRequest = new XMLHttpRequest();
 
 if(!httpRequest){
 
-console.log("Your borwser cannot handle AJAX. Get a better browser you scrub.");
+console.log("Your browser cannot handle AJAX. Get a better browser you scrub.");
 return false;
 
 }
@@ -58,7 +58,7 @@ httpRequest = new XMLHttpRequest();
 
 if(!httpRequest){
 
-console.log("Your borwser cannot handle AJAX. Get a better browser you scrub.");
+console.log("Your browser cannot handle AJAX. Get a better browser you scrub.");
 return false;
 
 }
